@@ -1,2 +1,2 @@
-test only on branch
+test only on master
 
